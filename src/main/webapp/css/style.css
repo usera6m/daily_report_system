@@ -4,7 +4,9 @@ table#employee_list th {
     width: 30%;
     padding: 10px 2%;
 }
-
+select {
+    height: 30px;
+}
 table#employee_list td {
     width: 29%;
     padding: 10px 2%;
@@ -16,9 +18,7 @@ tr.row1 {
 tr.row0 {
         background-color: #ffffff;
 }
-select {
-    height: 30px;
-}
+
 body {
     color: #333333;
     font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
