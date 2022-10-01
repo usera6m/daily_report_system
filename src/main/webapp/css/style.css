@@ -16,7 +16,9 @@ tr.row1 {
 tr.row0 {
         background-color: #ffffff;
 }
-
+select {
+    height: 30px;
+}
 body {
     color: #333333;
     font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
